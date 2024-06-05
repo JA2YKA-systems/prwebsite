@@ -1,2 +1,2 @@
 RewriteEngine on
-RewriteEngine ^ja2yka-systems.github.io/prwebsite/$ ja2yka-systems.github.io/prwebsite/src/src/pages [R=301,L]
+RewriteEngine ^/$ src/src/pages [R=301,L]
