@@ -1,2 +1,2 @@
 RewriteEngine on
-RewriteEngine ^/$ src/src/pages [R=301,L]
+RewriteEngine ^/$ /src/src/pages [R=301,L]
