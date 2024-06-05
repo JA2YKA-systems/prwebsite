@@ -1,0 +1,2 @@
+RewriteEngine on
+RewriteEngine ^https://jr2xkm-yka.github.io/JA2YKA-PRWEBSITE/$ https://jr2xkm-yka.github.io/JA2YKA-PRWEBSITE/src/src/pages [R=301,L]
